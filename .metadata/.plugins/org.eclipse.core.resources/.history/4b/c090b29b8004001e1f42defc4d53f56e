@@ -1,0 +1,5 @@
+package com.examen3.proyecto3.repository;
+
+public interface PersonaRepository {
+
+}

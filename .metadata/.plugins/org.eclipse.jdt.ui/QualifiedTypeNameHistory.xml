@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="jakarta.persistence.Id"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Entity"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Table"/>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+    <fullyQualifiedTypeName name="com.examen3.proyecto3.repository.CategoriaRepository"/>
+    <fullyQualifiedTypeName name="com.examen3.proyecto3.repository.ArticuloRepository"/>
+    <fullyQualifiedTypeName name="com.examen3.proyecto3.repository.Detalle_ingresoRepository"/>
+    <fullyQualifiedTypeName name="com.examen3.proyecto3.repository.IngresoRepository"/>
+    <fullyQualifiedTypeName name="com.examen3.proyecto3.repository.PersonaRepository"/>
+    <fullyQualifiedTypeName name="com.examen3.proyecto3.repository.Detalle_ventaRepository"/>
+    <fullyQualifiedTypeName name="com.examen3.proyecto3.repository.VentaRepository"/>
+    <fullyQualifiedTypeName name="com.examen3.proyecto3.repository.UsersRepository"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="com.examen3.proyecto3.service.CategoriaService"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
+    <fullyQualifiedTypeName name="com.examen3.proyecto3.entity.Categoria"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PutMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.DeleteMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+    <fullyQualifiedTypeName name="com.examen3.proyecto3.service.ArticuloService"/>
+    <fullyQualifiedTypeName name="com.examen3.proyecto3.entity.Articulo"/>
+    <fullyQualifiedTypeName name="com.examen3.proyecto3.service.Detalle_ingresoService"/>
+    <fullyQualifiedTypeName name="com.examen3.proyecto3.entity.Detalle_ingreso"/>
+    <fullyQualifiedTypeName name="com.examen3.proyecto3.service.IngresoService"/>
+    <fullyQualifiedTypeName name="com.examen3.proyecto3.entity.Ingreso"/>
+    <fullyQualifiedTypeName name="com.examen3.proyecto3.service.PersonaService"/>
+    <fullyQualifiedTypeName name="com.examen3.proyecto3.entity.Persona"/>
+    <fullyQualifiedTypeName name="com.examen3.proyecto3.service.Detalle_ventaService"/>
+    <fullyQualifiedTypeName name="com.examen3.proyecto3.entity.Detalle_venta"/>
+    <fullyQualifiedTypeName name="com.examen3.proyecto3.service.VentaService"/>
+    <fullyQualifiedTypeName name="com.examen3.proyecto3.entity.Venta"/>
+    <fullyQualifiedTypeName name="com.examen3.proyecto3.service.UsersService"/>
+    <fullyQualifiedTypeName name="com.examen3.proyecto3.entity.Users"/>
+</qualifiedTypeNameHistroy>
